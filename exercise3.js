@@ -30,7 +30,7 @@ Person.prototype.getFullName = function() {
 }
 
 Person.prototype.greet = function() {
-  console.log(`Hello, my name is ${this.getFullName()}.`)
+  console.log(`Hello, my name is ${}.`)
 }
 
 // Test the Person constructor function
